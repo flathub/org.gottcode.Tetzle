@@ -12,7 +12,8 @@
 		"--socket=x11",
 		"--share=ipc",
 		"--device=dri",
-		"--filesystem=xdg-config/kdeglobals:ro"
+		"--filesystem=xdg-config/kdeglobals:ro",
+		"--talk-name=com.canonical.AppMenu.Registrar"
 	],
 	"modules": [
 		{
