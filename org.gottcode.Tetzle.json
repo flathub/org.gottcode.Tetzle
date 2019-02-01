@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Tetzle",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.11",
+	"runtime-version": "5.12",
 	"sdk": "org.kde.Sdk",
 	"command": "tetzle",
 	"rename-icon": "tetzle",
