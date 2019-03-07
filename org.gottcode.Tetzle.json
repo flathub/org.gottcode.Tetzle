@@ -15,6 +15,9 @@
 		"--filesystem=xdg-config/kdeglobals:ro",
 		"--talk-name=com.canonical.AppMenu.Registrar"
 	],
+	"cleanup": [
+		"/share/icons/hicolor/1024x1024"
+	],
 	"modules": [
 		{
 			"name": "tetzle",
