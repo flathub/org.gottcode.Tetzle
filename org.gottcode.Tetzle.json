@@ -25,8 +25,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tetzle/tetzle-2.1.4-src.tar.bz2",
-					"sha256": "aa6a51d4862379c2cb00ce8162a31c6c1bf2c33f4377f0cb43536a920aa80562"
+					"url": "https://gottcode.org/tetzle/tetzle-2.1.5-src.tar.bz2",
+					"sha256": "982bac58aa37be4ac27a723b84d122af62b8cdce63d9aad180efa48427ce10b0"
 				}
 			]
 		}
