@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Tetzle",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "tetzle",
 	"rename-icon": "tetzle",
@@ -19,7 +19,7 @@
 	"modules": [
 		{
 			"name": "tetzle",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
