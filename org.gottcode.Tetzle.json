@@ -9,7 +9,7 @@
 	"rename-appdata-file": "tetzle.appdata.xml",
 	"finish-args": [
 		"--socket=wayland",
-		"--socket=x11",
+		"--socket=fallback-x11",
 		"--share=ipc",
 		"--device=dri"
 	],
