@@ -10,8 +10,7 @@
 	"finish-args": [
 		"--socket=wayland",
 		"--socket=fallback-x11",
-		"--share=ipc",
-		"--device=dri"
+		"--share=ipc"
 	],
 	"cleanup": [
 		"/share/icons/hicolor/1024x1024"
@@ -23,8 +22,12 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tetzle/tetzle-2.2.3.tar.bz2",
-					"sha256": "e70b15eb736d14f8aee60e0618599973c6b1beac22e8ee996bb880f332265532"
+					"url": "https://gottcode.org/tetzle/tetzle-3.0.0.tar.bz2",
+					"sha256": "bdb3b1769e8d52aa1c440ffdfb553fd957f7e605653b95f299507dfaa01d906b"
+				},
+				{
+					"type": "patch",
+					"path": "rename-icon.patch"
 				}
 			]
 		}
