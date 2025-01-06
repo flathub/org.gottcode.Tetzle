@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Tetzle",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.7",
+	"runtime-version": "6.8",
 	"sdk": "org.kde.Sdk",
 	"command": "tetzle",
 	"rename-icon": "tetzle",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tetzle/tetzle-3.0.0.tar.bz2",
-					"sha256": "bdb3b1769e8d52aa1c440ffdfb553fd957f7e605653b95f299507dfaa01d906b"
+					"url": "https://gottcode.org/tetzle/tetzle-3.0.1.tar.bz2",
+					"sha256": "1961327cad9c3a551c8f71f8fb3d071df97310ec69f1fec179663c798da10856"
 				},
 				{
 					"type": "patch",
